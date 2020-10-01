@@ -1,0 +1,59 @@
+{
+    "investor" : [
+        {
+            "id": 1,
+            "Investor": "John",
+            "Plan": "Super",
+            "Term": "6 Months",
+            "Amount": "$1",
+            "TotalReturns": "None",
+            "Maturity": "18525 Days",
+            "Status": "Active",
+            "Time":"a day ago"
+        },
+        {
+            "id": 2,
+            "Investor": "Dravid",
+            "Plan": "Super",
+            "Term": "6 Months",
+            "Amount": "$1000000",
+            "TotalReturns": "None",
+            "Maturity": "18525 Days",
+            "Status": "Active",
+            "Time":"a day ago"
+        },
+        {
+            "id": 3,
+            "Investor": "Sachin",
+            "Plan": "Super",
+            "Term": "6 Months",
+            "Amount": "$654778",
+            "TotalReturns": "None",
+            "Maturity": "18525 Days",
+            "Status": "Active",
+            "Time":"a day ago"
+        },
+        {
+             "id": 4,
+            "Investor": "kholi",
+            "Plan": "Super",
+            "Term": "6 Months",
+            "Amount": "$19999",
+            "TotalReturns": "None",
+            "Maturity": "18525 Days",
+            "Status": "Active",
+            "Time":"a day ago"
+        },
+        {
+            "id": 5,
+            "Investor": "Dhoni",
+            "Plan": "Super",
+            "Term": "6 Months",
+            "Amount": "$108542",
+            "TotalReturns": "None",
+            "Maturity": "18525 Days",
+            "Status": "Active",
+            "Time":"a day ago"
+        }
+      ]
+}
